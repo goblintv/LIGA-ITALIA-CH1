@@ -3,8 +3,7 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://brhn.xyz/useetvgo/m3u/bein2.m3u8
-
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 
 http://51.158.144.120:8090/FT/3/index.m3u8?token=NmQ1ODM3NzVlYjNiMTc3MjE0Y2M3ODFkMDczMTViODA6MTU5MzAyMDE3OQ==
