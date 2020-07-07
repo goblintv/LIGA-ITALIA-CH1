@@ -3,8 +3,7 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://34.120.120.19/live/ps1/chunks.m3u8
-
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 
 
 http://51.158.144.120:8090/FT/3/index.m3u8?token=NmQ1ODM3NzVlYjNiMTc3MjE0Y2M3ODFkMDczMTViODA6MTU5MzAyMDE3OQ==
