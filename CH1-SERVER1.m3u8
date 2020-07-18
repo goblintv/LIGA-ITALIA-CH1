@@ -3,6 +3,6 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://34.95.70.159/live/p2/chunks.m3u8
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 http://51.158.144.120:8090/FT/3/index.m3u8?token=NmQ1ODM3NzVlYjNiMTc3MjE0Y2M3ODFkMDczMTViODA6MTU5MzAyMDE3OQ==
